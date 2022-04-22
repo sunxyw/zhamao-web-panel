@@ -1,0 +1,22 @@
+{
+    "name": "zhamao/web-panel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ZM\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunxyw",
+            "email": "dev@sunxyw.xyz"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "zm": {
+            "module-path": "src/ZM/WebPanel"
+        }
+    }
+}
