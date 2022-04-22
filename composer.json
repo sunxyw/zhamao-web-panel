@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ZM\\": "src/"
+            "ZM\\": "src/ZM"
         }
     },
     "authors": [
