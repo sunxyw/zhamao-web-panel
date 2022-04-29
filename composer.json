@@ -13,7 +13,10 @@
             "email": "dev@sunxyw.xyz"
         }
     ],
-    "require": {},
+    "require": {
+        "league/plates": "^3.4",
+        "joshdifabio/composed": "^1.0"
+    },
     "extra": {
         "zm": {
             "module-path": "src/ZM/WebPanel"
